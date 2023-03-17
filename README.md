@@ -1,2 +1,2 @@
 # macro-keyboard
-copy + past
+past and back
