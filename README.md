@@ -1,4 +1,4 @@
-# macro-keyboard
+# macro-board
 past and back
 
 pin 3.3v conect up pin switch
